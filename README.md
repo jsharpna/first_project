@@ -13,7 +13,11 @@ To see the result of this project go to [notebooks/analysis.ipynb](notebooks/ana
 
 ## Organization:
 /README.md : this file describes how to reproduce the results
+
 /environments.yaml : this file is the conda environment used to run scripts
+
 /data/ : data directory which should not be versioned (use .gitignore)
+
 /code/ : code directory with makefile and scripts/module
+
 /notebooks/ : jupyter notebooks which present the results
